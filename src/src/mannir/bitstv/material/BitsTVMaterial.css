@@ -1,0 +1,37 @@
+#main {
+  width: 1920px;
+  height: 1080px;
+  background-color: green;
+
+}
+
+#header {
+  width: 1920px;
+  height: 100px;
+
+  background-color: brown;
+  background-repeat: no-repeat;
+  /* background-size: auto; */
+  /* background-size: 300px 100px; */
+}
+
+#menus {
+    width: 300px;
+    height: 900px;
+    /* background-color: blue; */
+    /* display: inline-block; */
+    float: left;
+
+}
+
+#contents {
+  width: 1620px;
+  height: 900px;
+  background-color: orange;
+}
+
+#footer {
+  width: 1920px;
+  height: 70px;
+  background-color: yellow;
+}
